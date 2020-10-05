@@ -8,8 +8,10 @@ The purpose of the project is to analyze and observe the benefits of refactoring
 The analysis extracted and categorized data into three groups. The first group displays the ticker, or stock. The second group contains total daily volume for each stock, while the third category displays percentage return from the years data for each stock. The percentage return was found by establishing starting price at the beginning of the year for each stock and ending price at the end of the year for the same stock. This was performed on all 12 stocks and enables the viewer to identify which stocks improved their value over the course of the year and which decreased their value. The analysis found generally superior stock performance during the 2017 year with only one stock, TERP, finishing with a negative return. The 2018 performances for the same stock generally dropped and saw only two stocks, ENPH and RUN, with positive returns. The code used to perform these tasks also utilized a timer and captured the run time for each script. Original VBA stock analysis scripts for 2017 and 2018 data ran in roughly 1.5 seconds while the refactored scripts ran significantly faster, coming in around 0.2 seconds.
 
 2017 Stock Performance - https://github.com/ChrisBarton107/Stock-analysis/blob/master/Resources/Resources/Stock_Performance_2017.png
+2017 Original Timer - https://github.com/ChrisBarton107/Stock-analysis/blob/master/Resources/Timer_Original_2017.png
 2017 Refactored Timer - https://github.com/ChrisBarton107/Stock-analysis/blob/master/Resources/VBA_Challenge_2017.png
 2018 Stock Performance - https://github.com/ChrisBarton107/Stock-analysis/blob/master/Resources/Resources/Stock_Performance_2018.png
+2018 Original Timer - https://github.com/ChrisBarton107/Stock-analysis/blob/master/Resources/Timer_Original_2018.png
 2018 Refactored Timer - https://github.com/ChrisBarton107/Stock-analysis/blob/master/Resources/VBA_Challenge_2018.png
 
 ## Summary
