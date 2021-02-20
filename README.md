@@ -9,14 +9,19 @@ The analysis extracted and categorized data into three groups. The first group d
 
 **2017 Stock Performance**<br> 
 <img src= "https://github.com/ChrisBarton107/Stock-analysis/blob/master/Resources/Resources/Stock_Performance_2017.png" width= "1000"><br>
+
 **2017 Original Timer**<br> 
 <img src= "https://github.com/ChrisBarton107/Stock-analysis/blob/master/Resources/Timer_Original_2017.png" height="300" width="700"><br>
+
 **2017 Refactored Timer**<br> 
 <img src= "https://github.com/ChrisBarton107/Stock-analysis/blob/master/Resources/VBA_Challenge_2017.png" height="300" width="700"><br>
+
 **2018 Stock Performance**<br> 
 <img src= "https://github.com/ChrisBarton107/Stock-analysis/blob/master/Resources/Resources/Stock_Performance_2018.png" width="1000"><br>
+
 **2018 Original Timer**<br> 
 <img src= "https://github.com/ChrisBarton107/Stock-analysis/blob/master/Resources/Timer_Original_2018.png" height="300" width="700"><br>
+
 **2018 Refactored Timer**<br> 
 <img src= "https://github.com/ChrisBarton107/Stock-analysis/blob/master/Resources/VBA_Challenge_2018.png" height="300" width="700"><br>
 
